@@ -1,5 +1,7 @@
 cd to script root
 
+uses blocksmith library to generate random btc address and pk then checks addys.txt for a match, if one is found you get green highlighted message and txt file created with the result
+
 pip install -r requirements.txt
 
 run start.py or command python start.py

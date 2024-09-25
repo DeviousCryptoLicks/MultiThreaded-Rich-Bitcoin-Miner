@@ -1,5 +1,3 @@
 blocksmith
 ecdsa
-colorama
-psutil
 base58

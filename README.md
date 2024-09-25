@@ -1,5 +1,7 @@
 Please Star and Fork!
 
+please contact me and let me know what the performance on windows is like and what cpu was used so i can update here and give you credit.
+
 
 Replit with MultiThreading
 <a href="https://imgbb.com/"><img src="https://i.ibb.co/qsHV7ws/Screenshot-20240925-164844.jpg" alt="Screenshot-20240925-164844" border="0" /></a>

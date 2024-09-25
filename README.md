@@ -3,7 +3,7 @@ Please Star and Fork!
 <a href="https://imgbb.com/"><img src="https://i.ibb.co/qsHV7ws/Screenshot-20240925-164844.jpg" alt="Screenshot-20240925-164844" border="0" /></a>
 
 
-UPDATE: Full source released for everyone - Dont try other peoples versions that steal ect
+UPDATE: Full source released for everyone - SEPTEMBER OPSEC- Check all your python scripts for 'exec()' calls
 
 uses blocksmith library to generate random btc address and pk then checks addys.txt for a match, if one is found you get txt file created with the result in script root
 

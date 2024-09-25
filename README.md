@@ -5,9 +5,9 @@ Please Star and Fork!
 
 UPDATE: Full source released for everyone - Dont try other peoples versions that steal ect
 
-uses blocksmith library to generate random btc address and pk then checks addys.txt for a match, if one is found you get green highlighted message and txt file created with the result
+uses blocksmith library to generate random btc address and pk then checks addys.txt for a match, if one is found you get txt file created with the result in script root
 
-
+edit: prev upload had colorama but have removed this so the script is as untouched as possible for a base
 
 cd to script root
 

@@ -1,5 +1,4 @@
-<a href="https://ibb.co/pzH5bpz"><img src="https://i.ibb.co/pzH5bpz/Screenshot-20240925-164844.jpg" alt="Screenshot-20240925-164844" border="0"></a>
-
+<a href="https://imgbb.com/"><img src="https://i.ibb.co/qsHV7ws/Screenshot-20240925-164844.jpg" alt="Screenshot-20240925-164844" border="0" /></a>
 
 
 UPDATE: Full source released for everyone - Dont try other peoples versions that steal ect

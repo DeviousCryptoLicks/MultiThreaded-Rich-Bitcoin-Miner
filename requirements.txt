@@ -1,3 +1,4 @@
 blocksmith
 ecdsa
 base58
+hashlib

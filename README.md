@@ -1,6 +1,13 @@
 Please Star and Fork!
 
+
+Replit with MultiThreading
 <a href="https://imgbb.com/"><img src="https://i.ibb.co/qsHV7ws/Screenshot-20240925-164844.jpg" alt="Screenshot-20240925-164844" border="0" /></a>
+
+
+Cheap android nokia on 1 thread
+<a href="https://ibb.co/vDLj5ws"><img src="https://i.ibb.co/6NDWhnv/Screenshot-20240922-183837.png" alt="Screenshot-20240922-183837" border="0"></a>
+
 
 
 UPDATE: Full source released for everyone - SEPTEMBER OPSEC- Check all your python scripts for 'exec()' calls

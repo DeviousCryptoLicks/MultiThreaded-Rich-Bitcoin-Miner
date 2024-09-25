@@ -1,3 +1,7 @@
+<a href="https://ibb.co/pzH5bpz"><img src="https://i.ibb.co/pzH5bpz/Screenshot-20240925-164844.jpg" alt="Screenshot-20240925-164844" border="0"></a>
+
+
+
 UPDATE: Full source released for everyone - Dont try other peoples versions that steal ect
 
 uses blocksmith library to generate random btc address and pk then checks addys.txt for a match, if one is found you get green highlighted message and txt file created with the result
